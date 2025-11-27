@@ -104,7 +104,10 @@ Create slight variations in your prompt to test how wording affects output.
 🎥 **[Watch the Video on Google Drive](https://drive.google.com/file/d/1zmDWDoGJZQgNpHPZ83TuV_o1MaAcy2K5/view?usp=drive_link)**  
 
 **📸 Output Preview:**  
-<img width="543" height="375" alt="Seed Sprouting Output" src="https://github.com/user-attachments/assets/dc074a36-d088-4945-9133-33fe5fd17235" />
+
+
+Uploading Firefly A seed sprouting into a small plant. A short video showing a seed breaking the soil and grow.mp4…
+
 
 ---
 
