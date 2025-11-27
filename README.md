@@ -108,7 +108,6 @@ Create slight variations in your prompt to test how wording affects output.
 
 https://github.com/user-attachments/assets/bce4d7e9-8bdc-4e84-9925-f1f5f1e38145
 
-Uploading Firefly A seed sprouting into a small plant. A short video showing a seed breaking the soil and grow.mp4…
 
 
 # Result:
