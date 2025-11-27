@@ -106,23 +106,9 @@ Create slight variations in your prompt to test how wording affects output.
 **📸 Output Preview:**  
 
 
+https://github.com/user-attachments/assets/bce4d7e9-8bdc-4e84-9925-f1f5f1e38145
+
 Uploading Firefly A seed sprouting into a small plant. A short video showing a seed breaking the soil and grow.mp4…
-
-
----
-
-## 🌱 Example 2: Human Evolution Through the Seasons
-
-**🧠 Prompt:**  
-> “A human evolving from a newborn to a teenager, adult, and elderly, with seasons changing from spring to winter in the background.”
-
-**🧩 Generated Using:** Runway Gen-2
-
-🎥 **[Watch the Generated Video](https://drive.google.com/file/d/1Lxc7RSQngJMlnluHY2wY-MaUz0vzUYCd/view?usp=drive_link)**  
-
-**📸 Output Preview:**  
- 
-<img width="544" height="186" alt="image" src="https://github.com/user-attachments/assets/ec677480-8817-4626-a3d8-1ad459ba99c8" />
 
 
 # Result:
